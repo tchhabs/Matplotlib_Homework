@@ -1,2 +1,3 @@
-# Matplotlib_Homework
-my code is in the pymaceuticals_challenge jupyter notebook inside the instructions and pymaceuticals folders
+•	Analyzed data from a fictional pharmaceutical company using Matplotlib.
+•	Using a Jupyter Notebook, I was able to create many plots to analyze the fictional pharmaceutical data to draw various conclusions.
+
